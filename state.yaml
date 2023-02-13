@@ -9,7 +9,7 @@ topics:
     replication: 1
     configs:
       cleanup.policy: compact
-  my-example-topic-02:
+  my-example-topic-03:
     partitions: 1
     replication: 1
     configs:
