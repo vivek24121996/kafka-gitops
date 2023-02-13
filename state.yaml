@@ -1,4 +1,9 @@
 topics:
+  my-example-topic:
+    partitions: 1
+    replication: 1
+    configs:
+      cleanup.policy: compact
   my-example-topic-01:
     partitions: 1
     replication: 1
